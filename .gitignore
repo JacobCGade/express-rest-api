@@ -1,0 +1,13 @@
+.env
+
+*.key
+*.key.pub
+*.key*
+
+dist
+
+node_modules
+
+*.log
+
+yarn.lock
